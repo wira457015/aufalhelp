@@ -1,0 +1,176 @@
+<!-- ======= Team Section ======= -->
+    <section id="team" class="team">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>Team</h2>
+          <p>Our Great Team</p>
+        </div>
+
+        <div class="row" data-aos="fade-left">
+
+          <div class="col-lg-2 col-md-2">
+            <div class="member" data-aos="zoom-in" data-aos-delay="100">
+              <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+               <h4>Arief</h4>
+              <span>Product Owner</span>
+                <div class="social">
+                  <!--<a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>-->
+                  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/mhadyanarif/"><i class="icofont-instagram"></i></a>
+                  <!--<a href=""><i class="icofont-linkedin"></i></a>-->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 mt-5 mt-md-0">
+            <div class="member" data-aos="zoom-in" data-aos-delay="200">
+              <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>Gita</h4>
+              <span>Role</span>
+                <div class="social">
+                  <!--<a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>-->
+                  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/gitacz/"><i class="icofont-instagram"></i></a>
+                  <!--<a href=""><i class="icofont-linkedin"></i></a>-->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 mt-5 mt-lg-0">
+            <div class="member" data-aos="zoom-in" data-aos-delay="300">
+              <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>Halimah</h4>
+              <span>Role</span>
+                <div class="social">
+                  <!--<a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>-->
+                  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/halimahtusyad/"><i class="icofont-instagram"></i></a>
+                  <!--<a href=""><i class="icofont-linkedin"></i></a>-->
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <div class="col-lg-2 col-md-6 mt-5 mt-lg-0">
+            <div class="member" data-aos="zoom-in" data-aos-delay="300">
+              <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>Annisa</h4>
+              <span>Role</span>
+                <div class="social">
+                  <!--<a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>-->
+                  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/annisariff/"><i class="icofont-instagram"></i></a>
+                  <!--<a href=""><i class="icofont-linkedin"></i></a>-->
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <div class="col-lg-2 col-md-6 mt-5 mt-lg-0">
+            <div class="member" data-aos="zoom-in" data-aos-delay="300">
+              <div class="pic"><img src="assets/img/team/team-5.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>Sisca</h4>
+              <span>Hacker</span>
+                <div class="social">
+                  <!--<a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>-->
+                  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/fsiscat/"><i class="icofont-instagram"></i></a>
+                  <!--<a href=""><i class="icofont-linkedin"></i></a>-->
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <div class="col-lg-2 col-md-6 mt-5 mt-lg-0">
+            <div class="member" data-aos="zoom-in" data-aos-delay="300">
+              <div class="pic"><img src="assets/img/team/team-6.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+              <h4>Agung</h4>
+              <span>Hacker</span>
+                <div class="social">
+                  <!--<a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>-->
+                  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/agung_wirayudha/"><i class="icofont-instagram"></i></a>
+                  <!--<a href=""><i class="icofont-linkedin"></i></a>-->
+                </div>
+              </div>
+            </div>
+          </div>
+      
+          <div class="col-lg-2 col-md-6 mt-5 mt-lg-0"></div>
+		  <div class="col-lg-2 col-md-6 mt-5 mt-lg-0">
+            <div class="member" data-aos="zoom-in" data-aos-delay="300">
+              <div class="pic"><img src="assets/img/team/team-7.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+               <h4>Prananda</h4>
+              <span>Hacker</span>
+                <div class="social">
+                  <!--<a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>-->
+                  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/pranandabangun/"><i class="icofont-instagram"></i></a>
+                  <!--<a href=""><i class="icofont-linkedin"></i></a>-->
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <div class="col-lg-2 col-md-6 mt-5 mt-lg-0">
+            <div class="member" data-aos="zoom-in" data-aos-delay="300">
+              <div class="pic"><img src="assets/img/team/team-8.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                  <h4> Andrew </h4>
+              <span>Hipster</span>
+                <div class="social">
+                  <!--<a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>-->
+                  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/"><i class="icofont-instagram"></i></a>
+                  <!--<a href=""><i class="icofont-linkedin"></i></a>-->
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <div class="col-lg-2 col-md-6 mt-5 mt-lg-0">
+            <div class="member" data-aos="zoom-in" data-aos-delay="300">
+              <div class="pic"><img src="assets/img/team/team-9.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                 <h4>Aziza</h4>
+              <span>Hipster</span>
+                <div class="social">
+                  <!--<a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>-->
+                  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/asazhara/"><i class="icofont-instagram"></i></a>
+                  <!--<a href=""><i class="icofont-linkedin"></i></a>-->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 mt-5 mt-lg-0">
+            <div class="member" data-aos="zoom-in" data-aos-delay="400">
+              <div class="pic"><img src="assets/img/team/team-10.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+               <h4>Anisa</h4>
+              <span>Role</span>
+                <div class="social">
+                  <!--<a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>-->
+                  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/eka_destiyana/"><i class="icofont-instagram"></i></a>
+                  <!--<a href=""><i class="icofont-linkedin"></i></a>-->
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Team Section -->
