@@ -776,6 +776,13 @@ section {
   background-size: contain;
   min-height: 300px;
 }
+
+.about .video-box2 {
+  background: url("../img/about.png") center center no-repeat;
+  background-size: contain;
+  min-height: 300px;
+}
+
 .hero-img {
   background: url("../img/hero-img.png") center center no-repeat;
   background-size: contain;
